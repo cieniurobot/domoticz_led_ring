@@ -6,6 +6,7 @@ Domoticz switch script for led ring.
 
 ## Installation
 Neopixel installation instruction is here  [https://learn.adafruit.com/neopixels-on-raspberry-pi/software](https://learn.adafruit.com/neopixels-on-raspberry-pi/software)
+
 Clone repository:
 
     cd domoticz/scripts/python
